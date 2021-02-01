@@ -5,6 +5,8 @@ inventory = []
 current_location = []
 mona_with_ball = False
 
+TESTING GIT!!
+
 class Location:
 	"""Locations are places you can gold"""
 	def __init__(self, modifier, call_name, stored_items, interactors, nearby_loc_text):
