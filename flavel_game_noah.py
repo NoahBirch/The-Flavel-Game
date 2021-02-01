@@ -5,7 +5,7 @@ inventory = []
 current_location = []
 mona_with_ball = False
 
-TESTING GIT!!
+# TESTING GIT!!
 
 class Location:
 	"""Locations are places you can gold"""
